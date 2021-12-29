@@ -30,6 +30,14 @@
         label {
             font-family: 'Exo 2', sans-serif;
         }
+        /*estilo a carousel*/
+        
+        .carousel {
+            font-family: 'Bree Serif', serif;
+            margin-left: 20px;
+            font-size: 35px;
+        }
+        /*fin estilo carousel*/
         
         header {
             /*justify-content: space-between;*/
@@ -150,6 +158,7 @@
         .cursiva,
         span {
             font-style: italic;
+            font-size: 22px;
         }
         
         .curso {
